@@ -1,4 +1,3 @@
-
 var url = require("./url");
 
 window.addEventListener('load', (event) => {

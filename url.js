@@ -1,4 +1,4 @@
-var howimetyourmother = {
+module.exports.howimetyourmother = {
     E_0: "www.netflix.com/watch/70218481",
     E_1: "www.netflix.com/watch/70218482",
     E_2: "www.netflix.com/watch/70218483",
@@ -207,8 +207,4 @@ var howimetyourmother = {
     E_205: "www.netflix.com/watch/80010335",
     E_206: "www.netflix.com/watch/80010336",
     E_207: "www.netflix.com/watch/80010337",
-};
-
-module.exports = {
-    howimetyourmother: howimetyourmother,
 };
